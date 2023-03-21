@@ -16,6 +16,5 @@
 2. Run `npm install`
 3. Install nest if needed `npm i -g @nestjs/cli`
 4. Lunch DB `docker-compose up -d`
-5. Add SEED's `http://loclahost:3001/seeds`
 
 
