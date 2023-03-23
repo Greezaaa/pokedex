@@ -11,12 +11,17 @@
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 
 </p>
-# PokèAPI clone
+
+# PokéAPI clone
 
 ## Run for dev:environment
 1. Clone repository
 2. Run `npm install`
 3. Install nest if needed `npm i -g @nestjs/cli`
 4. Lunch DB `docker-compose up -d`
+5. Add SEED `URL/api/v1/seed`
 
+##  Used Stacks
+NestJS Cli
+MongoDB
 
