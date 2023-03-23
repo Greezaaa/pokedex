@@ -19,7 +19,7 @@
 2. Run `npm install`
 3. Install nest if needed `npm i -g @nestjs/cli`
 4. Lunch DB `docker-compose up -d`
-5. Add SEED `URL/api/v1/seed`
+5. Add SEED to DB `http://localhost:3001/api/v1/seed`
 
 ##  Used Stacks
 NestJS Cli
